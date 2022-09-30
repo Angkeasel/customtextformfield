@@ -26,6 +26,13 @@ A FormField that contains a TextField.
 - [Documentation](https://api.flutter.dev/flutter/material/TextFormField-class.html)
 
 - [Pub Package](https://pub.dev/packages/textformfieldcustom)
+
+
+
+![textfield](https://user-images.githubusercontent.com/97495950/193216773-2a136d10-dbf1-4533-b1ad-79ded7e78f43.gif)
+
+
+
 ## Example
 ```dart
 import 'package:cic_clone/utils/custom_text_field.dart';
