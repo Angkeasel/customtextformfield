@@ -32,8 +32,8 @@ class HomePage extends StatelessWidget {
         body: Column(
           children: const [
             CustomTextfield(
-              label: 'Muy Smoke alot',
-              hint: 'Muy Smoke alot',
+              label: 'Borey zin2 Boy Lozz ',
+              hint: 'Borey zin2 Boy Lozz ',
             )
           ],
         ));
